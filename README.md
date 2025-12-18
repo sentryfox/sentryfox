@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Val.</h1>
 <h3 align="center">IT Professional</h3>
 
-I'm an IT Professional interested in all things in cyber and network security.
+I'm an IT Professional interested in all things cyber security and network security.
 
-- 🔭 I’m currently building my [Homelab](LINK)
+- 🔭 I’m currently building my [Homelab](https://github.com/sentryfox/homelab)
 
 <h2>👨‍💻 Cyber/Network Security Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](LINK)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/valp3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/valp3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/valp3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/valp3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
