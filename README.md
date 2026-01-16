@@ -3,12 +3,9 @@
 
 I'm an IT Professional interested in all things cyber security and network security.
 
-- 🔭 I’m currently building my [Homelab](https://github.com/sentryfox/homelab)
+<h2>Cyber/Network Security Projects:</h2>
 
-<h2>👨‍💻 Cyber/Network Security Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](LINK)
+- <b>[Homelab](https://github.com/sentryfox/homelab)</b> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
