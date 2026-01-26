@@ -3,9 +3,10 @@
 
 I'm an IT Professional interested in all things cyber security and network security.
 
-<h2>Cyber/Network Security Projects:</h2>
+<h2>Projects:</h2>
 
-- <b>[Homelab](https://github.com/sentryfox/homelab)</b> 
+- <b>[Homelab](https://github.com/sentryfox/homelab)</b>
+- <b>[Port Scanner - Python](https://github.com/sentryfox/portscanner/tree/main)</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
