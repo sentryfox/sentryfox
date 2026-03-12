@@ -7,9 +7,10 @@ I'm an IT Professional interested in all things cyber security and network secur
 
 - <b>[Homelab](https://github.com/sentryfox/homelab)</b>
 - <b>[Port Scanner - Python](https://github.com/sentryfox/portscanner/tree/main)</b>
-- <b> [Security Camera System](https://github.com/sentryfox/security-cams/tree/main)</b>
+- <b>[Security Camera System](https://github.com/sentryfox/security-cams/tree/main)</b>
 
 <h2>Python Projects:</h2>
+
 - <b>[Robot Barista](https://github.com/sentryfox/robobarista)</b>
 
 <h3 align="left">Connect with me:</h3>
