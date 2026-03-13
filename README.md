@@ -11,7 +11,7 @@ I'm an IT Professional interested in all things cyber security and network secur
 
 <h2>Coding/Programming Projects:</h2>
 
-- <b>[Robot Barista - Python](https://github.com/sentryfox/robobarista)</b>
+- <b>[Coffee Barista - Python](https://github.com/sentryfox/robobarista)</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
