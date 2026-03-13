@@ -5,14 +5,14 @@ I'm an IT Professional interested in all things cyber security and network secur
 
 <h2>Cyber/Network Security Projects:</h2>
 
-<li><b>[Homelab](https://github.com/sentryfox/homelab)</b></li>
-<li><b>[Port Scanner - Python](https://github.com/sentryfox/portscanner/tree/main)</b></li>
-<li><b>[Security Camera System](https://github.com/sentryfox/security-cams/tree/main)</b></li>
+<li><b> <a href="https://github.com/sentryfox/homelab">Homelab</a> </b></li>
+<li><b> <a href="https://github.com/sentryfox/portscanner/tree/main">Portscanner - Python</a> </b></li>
+<li><b> <a href="https://github.com/sentryfox/security-cams/tree/main">Security Camera System</a> </b></li>
 
 <h2>Coding/Programming Projects:</h2>
 
-<li><b>[Coffee Barista - Python](https://github.com/sentryfox/robobarista)</b>
-<li><b>[Simple Password Manager](https://github.com/sentryfox/pwmgr)</b></li>
+<li><b> <a href="https://github.com/sentryfox/coffee-barista">Coffee Barista - Python</a> </b>
+<li><b> <a href="https://github.com/sentryfox/pwmgr">Simple Password Manager</a> </b></li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
