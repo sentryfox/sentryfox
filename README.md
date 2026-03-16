@@ -6,7 +6,6 @@ I'm an IT Professional interested in all things cyber security and network secur
 <h2>Projects:</h2>
 
 <li><b> <a href="https://github.com/sentryfox/homelab">Homelab</a> </b></li>
-<li><b> <a href="https://github.com/sentryfox/portscanner/tree/main">Portscanner - Python</a> </b></li>
 <li><b> <a href="https://github.com/sentryfox/security-cams/tree/main">Security Camera System</a> </b></li>
 <li><b> <a href="https://github.com/sentryfox/coffee-barista">Coffee Barista - Python</a> </b>
 <li><b> <a href="https://github.com/sentryfox/pwmgr">Simple Password Manager - Python</a> </b></li>
